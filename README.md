@@ -1,2 +1,2 @@
 # recipe
-Create and Publish Recipes
+Create and Publish Your own Recipes
