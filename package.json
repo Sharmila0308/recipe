@@ -1,0 +1,19 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "Creating and Publishing your own recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharmila0308/recipe.git"
+  },
+  "author": "Sharmila Parashara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharmila0308/recipe/issues"
+  },
+  "homepage": "https://github.com/Sharmila0308/recipe#readme"
+}
