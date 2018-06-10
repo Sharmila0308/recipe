@@ -1,0 +1,58 @@
+{
+    "recipes":[
+       {
+        "title": "Chicken Biryani",
+        "description": "Hyderabadi Chicken Dum Biryani",
+        "serves": 4,
+        "time": 100,
+        "effort": 4,
+        "ingredients": [
+            "chicken",
+            "basmati rice",
+            "oil",
+            "onion",
+            "biryani spices",
+            "ginger garlic paste",
+            "mint"
+        ],
+        "steps": [
+            "marinate chicken",
+            "half cook rice",
+            "cook chicken for 5min",
+            "add rice to chicken",
+            "tightly close lid",
+            "open after 30min"
+        ],
+        "cuisine": "Hyderabadi",
+        "course": "lunch",
+        "mainIngrdient": "chicken",
+        "images": [
+            "https://i1.wp.com/media.hungryforever.com/wp-content/uploads/2016/03/13164725/Best-Hyderabadi-Biryani-In-Kolkata.jpg?ssl=1?w=1269&strip=all&quality=80",
+            "https://www.wearegurgaon.com/wp-content/uploads/2017/07/paradise-biryani-gurgaon.jpg"
+        ]
+       },
+       {
+        "title": "Maggie",
+        "description": "Instant noodles",
+        "serves": 2,
+        "time": 10,
+        "effort": 1,
+        "ingredients": [
+            "Maggie noodles",
+            "water"
+        ],
+        "steps": [
+            "boil water",
+            "mix maggie masala",
+            "add noodles and remove from stove after 5min"
+        ],
+        "cuisine": "Indian Chinese",
+        "course": "Evening Snack",
+        "mainIngrdient": "noodles",
+        "images": [
+            "https://www.maggi.co.uk/media/product/three-minute-noodles/blocks/chicken.png",
+            "https://2.bp.blogspot.com/-klyr2pWcIQg/WZT1ngEk5UI/AAAAAAAAYz0/7jil4SC8_YQs3fD_bIYL1zNCoHJt2RwQACLcBGAs/s1600/Street%2BStyle%2BMaggie%2BNoodles_finalforweb1.jpg"
+        ]
+       }
+    ]
+}
