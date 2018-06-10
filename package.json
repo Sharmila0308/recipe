@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/Sharmila0308/recipe/issues"
   },
-  "homepage": "https://github.com/Sharmila0308/recipe#readme"
+  "homepage": "https://github.com/Sharmila0308/recipe#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
